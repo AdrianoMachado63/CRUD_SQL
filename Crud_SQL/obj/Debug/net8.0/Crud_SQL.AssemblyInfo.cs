@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Crud_SQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c66e474618117575473badcea404aea1c5f3c669")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec3a5c10f3a906a8f24031ae34c475c7987ba1d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Crud_SQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Crud_SQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

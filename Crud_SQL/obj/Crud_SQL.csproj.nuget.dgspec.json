@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Crud_Sql\\Crud_SQL\\Crud_SQL.csproj": {}
+    "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Crud_SQL\\Crud_SQL\\Crud_SQL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Crud_Sql\\Crud_SQL\\Crud_SQL.csproj": {
+    "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Crud_SQL\\Crud_SQL\\Crud_SQL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Crud_Sql\\Crud_SQL\\Crud_SQL.csproj",
+        "projectUniqueName": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Crud_SQL\\Crud_SQL\\Crud_SQL.csproj",
         "projectName": "Crud_SQL",
-        "projectPath": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Crud_Sql\\Crud_SQL\\Crud_SQL.csproj",
+        "projectPath": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Crud_SQL\\Crud_SQL\\Crud_SQL.csproj",
         "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\adria\\Documentos\\Projetos_Versionados\\Conta AdrianoMachado63\\Repositorio Csharp\\Crud_Sql\\Crud_SQL\\obj\\",
         "projectStyle": "PackageReference",
